@@ -1,8 +1,8 @@
 # Linux Commands for Programming
 
 ## Myslq
-	* install 
+* install 
 	sudo apt install mysql-server
-	* uninstall
+* uninstall
 	sudo apt-get remove --purge mysql-server mysql-client mysql-common
 
