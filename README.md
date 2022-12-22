@@ -1,5 +1,11 @@
 # Linux Commands for Programming
 
+## Linux
+* Network Restart
+	```
+	sudo service network-manager restart
+	```
+
 ## Myslq
 * install 
 	```
@@ -22,7 +28,9 @@
 	exit
 	```
 	
-	```sudo mysql_secure_installation```
+	```
+	sudo mysql_secure_installation
+	```
 	
 
 * uninstall
