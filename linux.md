@@ -12,7 +12,7 @@
 	sudo dpkg -i package_file.deb
 	```
 	
-* Unnstall .deb file
+* Uninstall .deb file
 
 	```
 	sudo apt-get remove package_name
